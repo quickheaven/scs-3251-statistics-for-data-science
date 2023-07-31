@@ -1,5 +1,5 @@
 # Spam Email Classification
-SCS 3251 Statistics for Data Science Project | [Website](#)
+SCS 3251 Statistics for Data Science Project
 
 Jupyter Notebooks:
 * [Project Spambase](https://nbviewer.org/github/quickheaven/scs-3251-statistics-for-data-science/blob/5721d97fecd5b56f98a38e33a36ee0b459aff6af/project_spambase_nb.ipynb)
