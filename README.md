@@ -2,10 +2,9 @@
 SCS 3251 Statistics for Data Science Project | [Website](#)
 
 Jupyter Notebooks:
-* [Project Spambase](https://nbviewer.org/quickheaven/scs-3251-statistics-for-data-science/blob/5721d97fecd5b56f98a38e33a36ee0b459aff6af/project_spambase_nb.ipynb)
+* [Project Spambase](https://nbviewer.org/github/quickheaven/scs-3251-statistics-for-data-science/blob/5721d97fecd5b56f98a38e33a36ee0b459aff6af/project_spambase_nb.ipynb)
 * [Spambase Dataset Loader](https://nbviewer.org/github/quickheaven/scs-3251-statistics-for-data-science/blob/5721d97fecd5b56f98a38e33a36ee0b459aff6af/spambase_dataset_loader_nb.ipynb)
 * [Spambase Model Helper](https://nbviewer.org/github/quickheaven/scs-3251-statistics-for-data-science/blob/5721d97fecd5b56f98a38e33a36ee0b459aff6af/spambase_model_helper_nb.ipynb)
-
 
 Team members:
 
