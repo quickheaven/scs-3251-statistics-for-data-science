@@ -32,10 +32,6 @@ Link: [Spambase](https://archive.ics.uci.edu/dataset/94/spambase)
 	<img src="./images/Presentation_Front.PNG" width="800" height="600" />
 </a>
 
-## Report
-<a href="https://github.com/quickheaven/scs-3251-statistics-for-data-science/blob/ae9b29e4606362d7cd49f7f42b29bd5c4e4b60c6/documents/Spam%20Email%20Classification%20-%20Arjie%20Cristobal%20Final.pdf">
-	<img src="./images/Report_Front.PNG" width="800" height="1024" />
-</a>
 
 
 
